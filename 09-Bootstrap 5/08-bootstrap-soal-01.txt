@@ -1,0 +1,33 @@
+1. Apa itu CSS Framework?
+2. Apakah bootstrap satu-satunya CSS Framework yang dapat kita gunakan?
+3. Sebutkan beberapa CSS Framework selain Bootstrap
+4. Bagaimana tata cara penggunaan Bootstrap?
+
+JAWAB:
+
+1. SS framework adalah kerangka kerja yang fungsinya untuk memudahkan kita ketika mendesain website atau aplikasi, tepatnya di bagian layout dan tema. CSS framework berisi kumpulan kode CSS yang sudah siap pakai. Kita tak perlu repot untuk membuat struktur dasar desain dari nol. Karena, CSS framework menyediakan berbagai macam elemen desain. Mulai dari sistem grid, pola user interface (UI) yang interaktif, aneka tipografi untuk website, tombol, ikon, dan lain-lain.
+
+2. Tidak, masih banyak CSS Framework lainnya yang memudahkan pekerjaan kita sebagai front end developer seperti Foundation, Bulma, Semantic UI, UIKit, dll.
+
+3. CSS Framework lainnya yang memudahkan pekerjaan kita sebagai front end developer seperti Tailwind, Foundation, Bulma, Semantic UI, UIKit, Materialize CSS, Milligram, PureCSS, Skeleton, dll.
+
+4. Beberapa cara untuk menggunakan Bootstrap:
+1) Menggunakan CDN
+- Copy link CDN Bootstrap, lalu di taruh pada kode HTML.
+- Membuat folder baru 
+- Membuat file HTML baru
+- Kemudian copy dan paste link CDN ke dalam file HTML
+
+2) Download Boostrap for desktop(manual)
+- Kunjungi website resmi Bootstrap(https://getbootstrap.com/)
+- Download dengan menekan button download, kemudian file berupa ZIP akan ter-download.
+- Ekstrak file tersebut, ke direktori keinginan kita.
+- Kemudian buka VS code, dan buat baru file HTML
+- Masukan link yang terdapat dalam file yang telah kita ekstrak tadi ke dalam file HTML 
+
+3) Download dengan package manager
+- Download dan install Nodejs, ini akan sekaligus mendownload NPM.
+- Buat folder dengan nama sesuai keinginan.
+- Buka folder tersebut dalam VS Code.
+- Buka terminal pada VS Code dengan menggunakan shortcut (Ctrl + `)
+- Kemudian masukkan perintah yang diinginkan.
