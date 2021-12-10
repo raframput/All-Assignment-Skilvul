@@ -1,7 +1,7 @@
 ## RESULT
 Rafly Ramadhani Putra |
 Kelompok 10 |
-Technical Assignment Testing API and Documentation
+Technical Assignment Testing API and Documentation with Postman
 
 ## Testing POST
 ![POST](https://user-images.githubusercontent.com/90604200/145600988-f5294afb-6cec-49ca-907f-73bfd663f4fa.jpeg)
