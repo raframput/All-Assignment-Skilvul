@@ -1,6 +1,6 @@
 ## RESULT
-Rafly Ramadhani Putra
-Kelompok 10
+Rafly Ramadhani Putra |
+Kelompok 10 |
 Technical Assignment Testing API and Documentation
 
 ## Testing POST
