@@ -1,5 +1,5 @@
 ## Technical Assignment Deploy to Server
-Nama : Rafly Ramadhani Putra
+Nama : Rafly Ramadhani Putra |
 Kelompok : 10
 
 
