@@ -18,16 +18,19 @@ Wadah untuk mengemas dan menjalankan aplikasi. Wadah ini mencakup kode, runtime,
 
 ---------------------------------------------------------------------------------
 3. Apa yang dimaksud dengan docker file ?
-dokumen teks yang berisi semua perintah yang dapat dipanggil pengguna pada baris perintah untuk merakit gambar. Menggunakan docker build pengguna dapat membuat build otomatis yang mengeksekusi beberapa instruksi baris perintah secara berurutan.
+
+Dokumen teks yang berisi semua perintah yang dapat dipanggil pengguna pada baris perintah untuk merakit gambar. Menggunakan docker build pengguna dapat membuat build otomatis yang mengeksekusi beberapa instruksi baris perintah secara berurutan.
 
 ---------------------------------------------------------------------------------
 4. Apa yang dimaksud dengan docker registery ?
+
 Sebuah Docker registery adalah penyimpanan dan distribusi sistem bernama  Docker gambar. Gambar yang sama mungkin memiliki beberapa versi berbeda, yang diidentifikasi oleh tagnya.
 
 Docker registery diatur ke dalam  repositori Docker  , di mana repositori menyimpan semua versi gambar tertentu. Registery memungkinkan pengguna Docker untuk menarik gambar secara lokal, serta mendorong gambar baru ke registri (diberikan izin akses yang memadai bila berlaku).
 
 ---------------------------------------------------------------------------------
 5. Jelaskan bagaimana cara untuk menjalankan lebih dari 1 container secara bersamaan dan saling terhubung !
+
 Docker-Compose adalah alat untuk mendefinisikan dan menjalankan satu atau beberapa container yang saling terkait dengan sebuah command.
 
 Caranya:
